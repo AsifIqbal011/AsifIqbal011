@@ -28,8 +28,8 @@ I’m passionate about learning new technologies and currently exploring Python,
 ### 📊 GitHub Stats
 
 <!-- Change the username below to your GitHub username -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AsifIqbal011&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifIqbal011&layout=compact&theme=tokyonight)
 
 ---
 
